@@ -61,6 +61,14 @@ const purusTwitter = createAppConfig({
   width: 800,
 });
 
+const peepee = createAppConfig({
+  title: 'OH FUCK',
+  resizable: true,
+
+  height: 600,
+  width: 800,
+});
+
 const viewSource = createAppConfig({
   title: `View Source`,
   resizable: true,

@@ -1,7 +1,7 @@
 export const contextMenuConfig = {
   default: {
     'new-folder': {
-      title: 'New Folder',
+      title: 'suck me daddy]',
       breakAfter: true,
     },
     'get-info': {
